@@ -5,7 +5,7 @@
 
 
 ## Главная страница
-![Главная страница](https://imgur.com/VxAHLwc)
+![Главная страница](https://github.com/Python4k/my-site/raw/main/main-page.png)
 
 ## Страница контактов
-![Страница контактов](https://imgur.com/BK5FVMe)
+![Страница контактов](https://github.com/Python4k/my-site/raw/main/contact-page.png))
