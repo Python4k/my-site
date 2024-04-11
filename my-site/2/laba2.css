@@ -1,0 +1,68 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.site-block {
+	background: #20B2AA;
+	width: 900px;
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {
+	width: 900px;
+	height: 250px;
+	background: #E0FFFF;
+}
+
+.logo {
+	width: 900px;
+	height: 150px;
+	background: #4682B4;
+}
+
+.menu {
+	width: 900px;
+	height: 100px;
+	background: #98FB98;
+}
+
+.content {
+	width: 900px;
+	height: 650px;
+	background: #7cfc00;
+}
+
+.slider {
+	width: 900px;
+	height: 100px;
+	background: #AFEEEE;
+}
+
+.text {
+	width: 900px;
+	height: 550px;
+	background: #ADFF2F;
+}
+
+.text-right {
+	width: 450px;
+	height: 550px;
+	background: #008000;
+	float: right;
+}
+
+.text-left {
+	width: 450px;
+	height: 550px;
+	background: #006400;
+	float: left;
+}
+
+.footer {
+	width: 900px;
+	height: 100px;
+	background: #8FBC8F;
+}

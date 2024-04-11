@@ -1,0 +1,169 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.site-block {
+	background: #20B2AA;
+	width: 900px;
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {
+	width: 900px;
+	height: 180px;
+	background: #E0FFFF;
+}
+
+.logo {
+	width: 900px;
+	height: 150px;
+	background: #4682B4;
+	text-align: center;
+}
+
+.logo img {
+	height: 145px;
+	float: left;
+	padding-top: 2px;
+	padding-left: 2px;
+}
+
+.logo a {
+	text-decoration: none;
+	color: black;
+}
+.logo h1 {
+	padding-top: 50px;
+	
+}
+
+.menu {
+	width: 900px;
+	height: 30px;
+	background: #98FB98;
+}
+
+.second-menu {
+	list-style-type: none;
+	height: 50px;
+	padding: 0px;
+}
+
+.second-menu li:hover ul {
+	display: block;
+}
+
+.second-menu ul li {
+	float: none;
+}
+
+.second-menu li:hover {
+	background-color: #00FA9A;
+}
+
+.second-menu ul li:hover {
+	background-color: #B9FFAF;
+}
+
+.second-menu ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	display: none;
+	background-color: #A8BBED;
+	position: absolute;
+	z-index: 99;
+}
+
+.second-menu li {
+	float: left;
+	position: relative;
+}
+
+.second-menu li a {
+	display: inline-block;
+	padding: 6px;
+	width: 213px;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+}
+
+.content {
+	width: 900px;
+	height: 750px;
+	background: #7cfc00;
+}
+
+.slider {
+	width: 900px;
+	height: 270px;
+	background: #AFEEEE;
+}
+
+.text {
+	width: 900px;
+	height: 480px;
+	background: #ADFF2F;
+}
+
+.text-right {
+	width: 450px;
+	height: 480px;
+	background: #008000;
+	float: right;
+	text-align: center;
+}
+
+.text-right h2 {
+	padding-top: 10px;
+}
+.text-right img {
+	height: 270px;
+	padding-top: 15px;
+}
+
+.text-right p {
+	text-align: justify;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+}
+
+.text-left {
+	width: 450px;
+	height: 480px;
+	background: #006400;
+	float: left;
+	text-align: center;
+}
+
+.text-left h2 {
+	padding-top: 10px;
+}
+.text-left img {
+	height: 270px;
+	padding-top: 15px;
+}
+
+.text-left p {
+	text-align: justify;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+}
+
+.footer {
+	width: 900px;
+	height: 70px;
+	background: #8FBC8F;
+}
+
+.footer p {
+	text-align: center;
+	padding-top: 27px;
+	font-size: 18;
+}
